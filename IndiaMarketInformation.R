@@ -126,3 +126,5 @@ x1 <- rbind(x1,newrow)
 #-------------Dump the CSV data into storage-------------------------
 write.csv(x1,file="IndiaMarketInfo.csv")
 #+++++++++++++++++++++End of Program ++++++++++++++++++++++++++++++++++++++++
+
+# Version control using GIT
